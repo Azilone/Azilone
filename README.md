@@ -21,27 +21,19 @@ AI Infrastructure & Automation Engineer, with 4+ years of running and automating
 | | Product | What it does |
 |:---:|---|---|
 | <img src="assets/logos/personalize.png" width="36" alt="Personalize.design"> | [**Personalize.design**](https://www.personalize.design) | AI-powered product personalization for e-commerce. Generates designs, previews and print-ready files for Shopify stores. |
-| <img src="assets/logos/brock.png" width="36" alt="Brock.chat"> | [**Brock.chat**](https://brock.chat) | An AI agent you talk to over iMessage, with persistent memory, harness optimization and async workflows. |
+| <img src="assets/logos/brock.png" width="36" alt="Brock.chat"> | [**Brock.chat**](https://brock.chat) | Your 24/7 nutrition coach in iMessage. Log meals by text or photo and get the next useful action. Healthy habits, no new app to open. |
 
 ### 🛠️ Stack
 
-<div align="center">
+![TanStack](https://img.shields.io/badge/TanStack-000000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Grok bot](https://img.shields.io/badge/Grok%20bot-000000?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-<table>
-<tr>
-<td align="center" width="110"><img src="assets/logos/tanstack.svg" width="44" alt="TanStack"><br><sub><b>TanStack</b></sub></td>
-<td align="center" width="110"><img src="assets/logos/docker.svg" width="44" alt="Docker"><br><sub><b>Docker</b></sub></td>
-<td align="center" width="110"><img src="assets/logos/typescript.svg" width="44" alt="TypeScript"><br><sub><b>TypeScript</b></sub></td>
-<td align="center" width="110"><picture><source media="(prefers-color-scheme: light)" srcset="assets/logos/rust-light.svg"><img src="assets/logos/rust.svg" width="44" alt="Rust"></picture><br><sub><b>Rust</b></sub></td>
-<td align="center" width="110"><img src="assets/logos/go.svg" width="44" alt="Go"><br><sub><b>Go</b></sub></td>
-<td align="center" width="110"><img src="assets/logos/claude.svg" width="44" alt="Claude"><br><sub><b>Claude</b></sub></td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/Grok%20bot-000000?style=for-the-badge" alt="Grok bot"></td>
-</tr>
-</table>
-
-</div>
-
-### 🚀 Open source
+### 🚀 My open source projects
 
 | | Project | What it does |
 |:---:|---|---|
