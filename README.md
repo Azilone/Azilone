@@ -18,32 +18,43 @@ AI Infrastructure & Automation Engineer, with 4+ years of running and automating
 
 ### 🏢 What I'm building
 
-| Product | What it does |
-|---|---|
-| [**Personalize.design**](https://www.personalize.design) | AI-powered product personalization for e-commerce. Generates designs, previews and print-ready files for Shopify stores. |
-| [**Brock.chat**](https://brock.chat) | An AI agent you talk to over iMessage, with persistent memory, harness optimization and async workflows. |
+| | Product | What it does |
+|:---:|---|---|
+| <img src="assets/logos/personalize.png" width="36" alt="Personalize.design"> | [**Personalize.design**](https://www.personalize.design) | AI-powered product personalization for e-commerce. Generates designs, previews and print-ready files for Shopify stores. |
+| <img src="assets/logos/brock.png" width="36" alt="Brock.chat"> | [**Brock.chat**](https://brock.chat) | An AI agent you talk to over iMessage, with persistent memory, harness optimization and async workflows. |
 
 ### 🛠️ Stack
 
-![TanStack](https://img.shields.io/badge/TanStack-000000?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Grok bot](https://img.shields.io/badge/Grok%20bot-000000?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="110"><img src="assets/logos/tanstack.svg" width="44" alt="TanStack"><br><sub><b>TanStack</b></sub></td>
+<td align="center" width="110"><img src="assets/logos/docker.svg" width="44" alt="Docker"><br><sub><b>Docker</b></sub></td>
+<td align="center" width="110"><img src="assets/logos/typescript.svg" width="44" alt="TypeScript"><br><sub><b>TypeScript</b></sub></td>
+<td align="center" width="110"><picture><source media="(prefers-color-scheme: light)" srcset="assets/logos/rust-light.svg"><img src="assets/logos/rust.svg" width="44" alt="Rust"></picture><br><sub><b>Rust</b></sub></td>
+<td align="center" width="110"><img src="assets/logos/go.svg" width="44" alt="Go"><br><sub><b>Go</b></sub></td>
+<td align="center" width="110"><img src="assets/logos/claude.svg" width="44" alt="Claude"><br><sub><b>Claude</b></sub></td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/Grok%20bot-000000?style=for-the-badge" alt="Grok bot"></td>
+</tr>
+</table>
+
+</div>
 
 ### 🚀 Open source
 
-| Project | What it does |
-|---|---|
-| [**Truffle**](https://github.com/Azilone/Truffle) | Find any file by name, content or meaning. Instantly, offline. |
-| [**Dailies**](https://github.com/Azilone/Dailies) | Prepare camera media safely, from Raycast. |
-| [**Muesli**](https://github.com/Azilone/obsidian-muesli) | Granola in Obsidian. Meeting notes in your vault, no bot. |
-| [**Native Mindmap**](https://github.com/Azilone/obsidian-native-mindmap) | Keyboard-first mindmaps stored as plain Markdown. |
-| [**Lucent**](https://github.com/Azilone/Lucent) | Unlock the full XDR brightness of your MacBook Pro. |
+| | Project | What it does |
+|:---:|---|---|
+| <img src="assets/logos/truffle.png" width="36" alt="Truffle"> | [**Truffle**](https://github.com/Azilone/Truffle) | Find any file by name, content or meaning. Instantly, offline. |
+| <img src="assets/logos/raycast.svg" width="36" alt="Dailies"> | [**Dailies**](https://github.com/Azilone/Dailies) | Prepare camera media safely, from Raycast. |
+| <img src="assets/logos/muesli.png" width="36" alt="Muesli"> | [**Muesli**](https://github.com/Azilone/obsidian-muesli) | Granola in Obsidian. Meeting notes in your vault, no bot. |
+| <img src="assets/logos/mindmap.png" width="36" alt="Native Mindmap"> | [**Native Mindmap**](https://github.com/Azilone/obsidian-native-mindmap) | Keyboard-first mindmaps stored as plain Markdown. |
+| <img src="assets/logos/lucent.png" width="36" alt="Lucent"> | [**Lucent**](https://github.com/Azilone/Lucent) | Unlock the full XDR brightness of your MacBook Pro. |
 
 ### 📫 Contact
 
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Azil0ne)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kdejouet)
+<p align="center">
+<a href="https://x.com/Azil0ne"><picture><source media="(prefers-color-scheme: light)" srcset="assets/logos/x-light.svg"><img src="assets/logos/x.svg" width="40" alt="X"></picture></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/kdejouet"><img src="assets/logos/linkedin.svg" width="40" alt="LinkedIn"></a>
+</p>
