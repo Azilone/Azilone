@@ -4,6 +4,10 @@
 
 **Building AI agents that save time.** Independent AI Engineer behind [Brock.chat](https://brock.chat) and [Personalize.design](https://www.personalize.design).
 
+<br>
+
+[![How to reach me: kevin.dejouet@gmail.com](https://img.shields.io/badge/How%20to%20reach%20me-kevin.dejouet%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.dejouet@gmail.com)
+
 </div>
 
 ---
