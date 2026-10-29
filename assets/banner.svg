@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0b14"/>
+      <stop offset="100%" stop-color="#1e1b3a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <g stroke="#ffffff" stroke-opacity="0.04" stroke-width="1">
+    <line x1="0" y1="50" x2="1200" y2="50"/>
+    <line x1="0" y1="100" x2="1200" y2="100"/>
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="250" x2="1200" y2="250"/>
+    <line x1="100" y1="0" x2="100" y2="300"/>
+    <line x1="200" y1="0" x2="200" y2="300"/>
+    <line x1="300" y1="0" x2="300" y2="300"/>
+    <line x1="400" y1="0" x2="400" y2="300"/>
+    <line x1="500" y1="0" x2="500" y2="300"/>
+    <line x1="600" y1="0" x2="600" y2="300"/>
+    <line x1="700" y1="0" x2="700" y2="300"/>
+    <line x1="800" y1="0" x2="800" y2="300"/>
+    <line x1="900" y1="0" x2="900" y2="300"/>
+    <line x1="1000" y1="0" x2="1000" y2="300"/>
+    <line x1="1100" y1="0" x2="1100" y2="300"/>
+  </g>
+
+  <g stroke="url(#accent)" stroke-width="2" fill="none" opacity="0.6">
+    <line x1="820" y1="110" x2="960" y2="70"/>
+    <line x1="960" y1="70" x2="1100" y2="120"/>
+    <line x1="820" y1="110" x2="900" y2="210"/>
+    <line x1="900" y1="210" x2="1040" y2="240"/>
+    <line x1="960" y1="70" x2="900" y2="210"/>
+    <line x1="1100" y1="120" x2="1040" y2="240"/>
+  </g>
+  <g fill="url(#accent)">
+    <circle cx="820" cy="110" r="8"/>
+    <circle cx="960" cy="70" r="10"/>
+    <circle cx="1100" cy="120" r="8"/>
+    <circle cx="900" cy="210" r="9"/>
+    <circle cx="1040" cy="240" r="7"/>
+  </g>
+
+  <text x="80" y="140" font-family="Menlo, Consolas, monospace" font-size="72" font-weight="700" fill="url(#accent)">Kévin Dejouet</text>
+  <text x="80" y="190" font-family="Menlo, Consolas, monospace" font-size="26" fill="#E5E7EB">AI Agent Engineer · Harness optimization</text>
+  <text x="80" y="232" font-family="Menlo, Consolas, monospace" font-size="20" fill="#9CA3AF">Building agents that save companies time · Paris</text>
+</svg>
